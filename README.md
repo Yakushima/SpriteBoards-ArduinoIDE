@@ -1,3 +1,5 @@
+## Start with the instructions in the KickSat [BoardManager-Arduino](https://github.com/kicksat/BoardManager-ArduinoIDE).
+
 ## Instructions to update KickSat boards (on Windows)
 
 1. Pack this repo into a zip file in "sprite_boards.X.X.zip", replacing X.X with the version number
